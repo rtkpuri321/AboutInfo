@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutInfo</string>
+    <string name="ritik_puri">Ritik Puri</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">I am Ritik Puri.
+        <br><br>\n\nEstablishing work methods that improve efficiencies</br></br>
+<br><br>\n\nAssisting all customers with placing print orders online and providing guidance about best practices when placing print orders</br></br>
+<br><br>\n\nWork with P I to schedule deals, distribute weekly weights, maintain CPM guidelines, manage program changes</br></br>
+<br><br>\n\nFollowing production workflow to produce high volumes of work, using high end digital printer/copier equipment</br></br>
+<br><br>\n\nAssisting co-workers in the timely and accurate accomplishment of all departmental operations</br></br>
+<br><br>\n\nProficient use of ad planning and ad posting systems to manage deals</br></br>
+<br><br>\n\nOrganizing tasks to make deadlines</br></br>
+<br>\nAct as the voice for the brand, driving the expression of the brand in all marketing channels\n</br></string>
+    <string name="What_is_your_name">What is your name?</string>
+    <string name="done_button">done</string>
+</resources>
